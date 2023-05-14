@@ -19,7 +19,7 @@ Product Portfolio:<br>
 ## Analyis done: <br>
 Non-Graphical Analysis: Value counts and unique attributes<br>
 Visual Analysis - Univariate & Bivariate<br>
-    For continuous variable(s): Distplot, countplot, histogram for univariate analysis <br><br>
+    For continuous variable(s): Distplot, countplot, histogram for univariate analysis <br>
     For categorical variable(s): Boxplot <br>
     For correlation: Heatmaps, Pairplots<br>
 Missing Value & Outlier Detection<br>
